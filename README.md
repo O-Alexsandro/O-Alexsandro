@@ -5,7 +5,7 @@
   <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=O-Alexsandro&show_icons=true&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/O-Alexsandro">
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Alexsandro&layout=compact&theme=codeSTACKr" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Alexsandro&layout=compact&theme=codeSTACKr" />
 </a>
 
 <div style="display:inline_block"><br> 
