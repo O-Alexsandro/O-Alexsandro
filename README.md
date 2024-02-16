@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="[https://drive.google.com/file/d/1O9p9-8lVf0BOX1dC74pR6Zb2-ldCLoEe/view?usp=sharing](https://drive.google.com/file/d/1O9p9-8lVf0BOX1dC74pR6Zb2-ldCLoEe/view?usp=sharing)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/O-Alexsandro/O-Alexsandro/blob/main/Banner.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> Eu amo resolver desafios em Java ❤ <br><br> Estou mergulhando no mundo do desenvolvimento, explorando desde o básico até conceitos mais avançados. Adoro aprender e aplicar meus conhecimentos para criar soluções simples, mas eficientes. Atualmente, estou focado em me tornar um <strong> desenvolvedor back end Java </strong>, ansioso para cada novo aprendizado nessa jornada!</p>
